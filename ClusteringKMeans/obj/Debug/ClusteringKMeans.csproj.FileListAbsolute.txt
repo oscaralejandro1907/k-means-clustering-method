@@ -1,0 +1,6 @@
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/bin/Debug/ClusteringKMeans.exe
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/bin/Debug/ClusteringKMeans.pdb
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/obj/Debug/ClusteringKMeans.csproj.AssemblyReference.cache
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/obj/Debug/ClusteringKMeans.csproj.CoreCompileInputs.cache
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/obj/Debug/ClusteringKMeans.exe
+/Users/oscarhernandezlopez/RiderProjects/ClusteringKMeans/ClusteringKMeans/obj/Debug/ClusteringKMeans.pdb
